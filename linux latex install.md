@@ -1,6 +1,6 @@
 #linux latex 安装
 
-本文是在ubuntu14.10 64位操作系统，安装的texlive版本是2014下测试的，其它的linux系统类似。
+本文是在ubuntu14.10 64位操作系统，安装的texlive版本是2014，其它的linux系统类似。
 
 ##1.安装texlive
 texlive是tex软件发行套装，包含与tex系统相关的各种程序/编辑与查看工具/常用宏及文档/常用字体及多国语言支持。
